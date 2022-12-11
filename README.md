@@ -12,4 +12,8 @@ The below steps has to be followed to run the pipeline
     src\main\resources\output
 
 
+System Design
+
+https://github.com/fijurrahman/sggsc_assignment/tree/master/src/main/resources/datamodel
+
 
